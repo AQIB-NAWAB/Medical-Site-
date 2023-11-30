@@ -1,3 +1,43 @@
 .banner1{
     font-family: 'Poppins', sans-serif;
 }
+.reason{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+flex :1;
+}
+.reason .icon{
+    font-size: 60px;
+    margin: 0px auto;
+    color: teal;
+}
+.reason h2{
+    color: teal;
+    font-size: 30px;
+}
+.reason p{
+    font-size: 15px;
+    color: #555;
+}
+.liquid_bbl_offer{
+    font-family: 'Poppins', sans-serif;
+}
+.asthetic_practitioners{
+    font-family: 'Poppins', sans-serif;
+    background:linear-gradient(to right, #79C2C0, #13928C) ;
+}
+.liquid_bbl_offer .right p{
+    font-size: 15px;
+    color: #555;
+    margin-top: 10px;
+}
+.reviews{
+    font-family: 'Poppins', sans-serif;
+}
+.stars {
+    font-size: 24px;
+}
